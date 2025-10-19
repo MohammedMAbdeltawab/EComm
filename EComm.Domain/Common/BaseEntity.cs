@@ -1,4 +1,4 @@
-﻿namespace EComm.Domain.Entities;
+﻿namespace EComm.Domain.Common;
 public abstract class BaseEntity
 {
     public int Id { get; set; } 
